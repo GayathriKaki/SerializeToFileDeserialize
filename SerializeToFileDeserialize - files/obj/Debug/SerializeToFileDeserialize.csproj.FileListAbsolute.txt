@@ -1,0 +1,9 @@
+D:\gayathri\projects\SerializeToFileDeserialize\SerializeToFileDeserialize\bin\Debug\SerializeToFileDeserialize.exe.config
+D:\gayathri\projects\SerializeToFileDeserialize\SerializeToFileDeserialize\bin\Debug\SerializeToFileDeserialize.exe
+D:\gayathri\projects\SerializeToFileDeserialize\SerializeToFileDeserialize\bin\Debug\SerializeToFileDeserialize.pdb
+D:\gayathri\projects\SerializeToFileDeserialize\SerializeToFileDeserialize\obj\Debug\SerializeToFileDeserialize.csprojResolveAssemblyReference.cache
+D:\gayathri\projects\SerializeToFileDeserialize\SerializeToFileDeserialize\obj\Debug\SerializeToFileDeserialize.UserForm.resources
+D:\gayathri\projects\SerializeToFileDeserialize\SerializeToFileDeserialize\obj\Debug\SerializeToFileDeserialize.Properties.Resources.resources
+D:\gayathri\projects\SerializeToFileDeserialize\SerializeToFileDeserialize\obj\Debug\SerializeToFileDeserialize.csproj.GenerateResource.Cache
+D:\gayathri\projects\SerializeToFileDeserialize\SerializeToFileDeserialize\obj\Debug\SerializeToFileDeserialize.exe
+D:\gayathri\projects\SerializeToFileDeserialize\SerializeToFileDeserialize\obj\Debug\SerializeToFileDeserialize.pdb
